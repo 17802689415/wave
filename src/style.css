@@ -1,2 +1,9 @@
+@font-face {
+  font-family: 'One';
+  src: url('./font/TsangerYuYangT_W05_W05.ttf') format('truetype');
+}
+:root{
+  font-family: 'One', sans-serif ;
+}
 
 
