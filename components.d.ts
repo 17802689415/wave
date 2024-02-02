@@ -15,11 +15,13 @@ declare module 'vue' {
     ElRow: typeof import('element-plus/es')['ElRow']
     HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
     Input: typeof import('./src/components/utilVue/Input.vue')['default']
+    Loader: typeof import('./src/components/utilVue/Loader.vue')['default']
     Login: typeof import('./src/components/utilVue/Login.vue')['default']
     LoginBtn: typeof import('./src/components/utilVue/LoginBtn.vue')['default']
     Love: typeof import('./src/components/utilVue/Love.vue')['default']
     Main: typeof import('./src/components/Main.vue')['default']
     Test: typeof import('./src/components/Test.vue')['default']
+    Wel: typeof import('./src/components/utilVue/Wel.vue')['default']
     Xin: typeof import('./src/components/utilVue/Xin.vue')['default']
   }
 }
