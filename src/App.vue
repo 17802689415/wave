@@ -2,13 +2,13 @@
 
 <template>
 <!-- <HelloWorld></HelloWorld> -->
-<Main></Main>
+<Photo></Photo>
 <!-- <Test></Test> -->
 </template>
 
 <script setup lang="ts">
 // import HelloWorld from './components/HelloWorld.vue'
-import Main from './components/Main.vue';
+import Photo from './components/Photo.vue';
 // import Test from './components/Test.vue'
 </script>
 <style scoped>
